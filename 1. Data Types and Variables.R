@@ -28,6 +28,10 @@ class(x)
 x <- "R"
 class(x)
 
+# boolean
+x <- TRUE
+class(x)
+
 # Variables 
 
 name <- 'Jeff'
